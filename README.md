@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FF2E97&height=200&section=header&text=Hi,%20I'm%20Quincy&fontSize=52&fontColor=FF2E97&fontAlignY=36&desc=IT%20%26%20Business%20student%20%C2%B7%20future%20Business%20Analyst&descSize=17&descAlignY=56&descColor=444444" width="100%" />
+<img src="./banner.svg" width="100%" alt="Hi, I'm Quincy" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF2E97&center=true&vCenter=true&width=620&lines=Turning+business+needs+into+software;TypeScript+%C2%B7+Java+%C2%B7+C%23+%C2%B7+Angular+%C2%B7+NestJS;Studying+in+Antwerp+%40+AP+Hogeschool" alt="Typing intro" />
 
@@ -37,4 +37,3 @@ I'm a third-year Applied Computer Science student (IT & Business) at AP Hogescho
   <a href="mailto:quincy.cox@outlook.be"><img src="https://img.shields.io/badge/Email-FF2E97?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,100:FFFFFF&height=110&section=footer" width="100%" />
