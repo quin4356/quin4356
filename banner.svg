@@ -12,5 +12,5 @@
   <rect width="1000" height="220" rx="18" fill="url(#g)"/>
   <rect x="6" y="6" width="988" height="208" rx="14" fill="none" stroke="#FF2E97" stroke-width="3" filter="url(#glow)"/>
   <text x="500" y="110" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#FF2E97" filter="url(#glow)">Hi, I'm Quincy</text>
-  <text x="500" y="160" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#444444">IT &amp; Business student · future IT consultant</text>
+  <text x="500" y="160" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#444444">IT &amp; Business student · aiming for IT consultancy</text>
 </svg>
