@@ -21,16 +21,6 @@ I'm a third-year Applied Computer Science student (IT & Business) at AP Hogescho
   <img src="https://skillicons.dev/icons?i=ts,js,java,cs,html,css,angular,nestjs,nodejs,express,flutter,dotnet,spring,postgres,docker,git,linux,figma&perline=9&theme=light" alt="Tech stack" />
 </p>
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quin4356&commits_year=2026&show_icons=true&hide_border=false&bg_color=FFFFFF&border_color=FF2E97&title_color=FF2E97&icon_color=FF2E97&text_color=2D2D2D&border_radius=12" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quin4356&layout=compact&bg_color=FFFFFF&border_color=FF2E97&title_color=FF2E97&text_color=2D2D2D&border_radius=12" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=quin4356&starting_year=2026&background=FFFFFF&border=FF2E97&ring=FF2E97&fire=FF2E97&currStreakLabel=FF2E97&sideLabels=2D2D2D&currStreakNum=2D2D2D&sideNums=2D2D2D&dates=888888&border_radius=12" alt="GitHub streak" />
-</p>
-
 ## Contact
 
 <p align="center">
