@@ -12,7 +12,7 @@ I'm a third-year Applied Computer Science student (IT & Business) at AP Hogescho
 
 - 🛠️ **Vlotter**: a QA web app for a real client, built with Flutter, NestJS and PostgreSQL in two-week sprints
 - 🌍 **Cardiff Met, 2026**: an educational TypeScript app about common childhood illnesses, made in an international team
-- 🎯 **Goal**: Business Analyst at an IT consultancy
+- 🎯 **Goal**: IT consultancy
 - 🥾 **Offline**: walking, hiking, reading, travelling
 
 ## Tech stack
@@ -24,11 +24,11 @@ I'm a third-year Applied Computer Science student (IT & Business) at AP Hogescho
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quin4356&show_icons=true&hide_border=false&bg_color=FFFFFF&border_color=FF2E97&title_color=FF2E97&icon_color=FF2E97&text_color=2D2D2D&border_radius=12" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quin4356&commits_year=2026&show_icons=true&hide_border=false&bg_color=FFFFFF&border_color=FF2E97&title_color=FF2E97&icon_color=FF2E97&text_color=2D2D2D&border_radius=12" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quin4356&layout=compact&bg_color=FFFFFF&border_color=FF2E97&title_color=FF2E97&text_color=2D2D2D&border_radius=12" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=quin4356&background=FFFFFF&border=FF2E97&ring=FF2E97&fire=FF2E97&currStreakLabel=FF2E97&sideLabels=2D2D2D&currStreakNum=2D2D2D&sideNums=2D2D2D&dates=888888&border_radius=12" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=quin4356&starting_year=2026&background=FFFFFF&border=FF2E97&ring=FF2E97&fire=FF2E97&currStreakLabel=FF2E97&sideLabels=2D2D2D&currStreakNum=2D2D2D&sideNums=2D2D2D&dates=888888&border_radius=12" alt="GitHub streak" />
 </p>
 
 ## Contact
