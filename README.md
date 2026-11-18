@@ -24,6 +24,6 @@ I'm a third-year Applied Computer Science student (IT & Business) at AP Hogescho
 ## Contact
 
 <p align="center">
-  <a href="mailto:quincy.cox@outlook.be"><img src="https://img.shields.io/badge/Email-FF2E97?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:quincy.cox@outlook.be"><img src="https://img.shields.io/badge/quincy.cox%40outlook.be-FF2E97?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
